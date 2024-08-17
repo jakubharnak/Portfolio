@@ -14,17 +14,17 @@ I am always eager to learn and take on new challenges, aiming to leverage my ski
 export const EXPERIENCES = [
   {
     year: "2019 - Present",
-    role: "IT Support Technician",
+    role: "IT Support Technician & Social Media Manager",
     company: "Harňák s.r.o.",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
+    description: `Manage networks, maintain and repair computers, support printers, handle social media and online marketing, and solve technical issues.`,
+    technologies: ["-", "-", "-", "-"],
   },
   {
     year: "2021 - 2021",
     role: "IT Support Technician",
     company: "Leoni",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    description: `Assist in setting up workstations, managing emails, handling open tickets in ServiceNow, and documenting system changes to ensure smooth IT operations`,
+    technologies: ["-", "-", "-", "-"],
   },
 ];
 
