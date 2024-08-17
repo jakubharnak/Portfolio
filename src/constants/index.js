@@ -1,7 +1,6 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+import project1 from "../assets/projects/nalepka.jpg";
+import project2 from "../assets/projects/meteos.png";
+import project3 from "../assets/projects/JHlogo500.svg";
 
 export const HERO_CONTENT = `I am an enthusiastic and open-minded individual with a strong passion for exploring and learning within the dynamic field of Information Technology. I am constantly seeking opportunities to expand my knowledge and gain valuable experiences that will contribute to my professional growth. My eagerness to learn drives me to stay updated with the latest advancements and trends in the industry, ensuring that I am always equipped with the most relevant skills and insights. I am committed to embracing new challenges and leveraging my curiosity to innovate and excel in various IT domains.`;
 
@@ -43,32 +42,25 @@ export const EDUCATION = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Graphic Design",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "Graphic design project for a client, involving the creation of a logo and branding materials.",
+    technologies: ["Figma"],
   },
   {
-    title: "Task Management App",
+    title: "Meteos",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "An IoT weather station that collects and displays real-time and predicted weather data.",
+    technologies: ["NodeRed", "Mikro python", "JS", "SQL"],
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
-  },
-  {
-    title: "Blogging Platform",
-    image: project4,
-    description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+    technologies: ["React", "Tailwind CSS", "Vite"],
   },
 ];
 
