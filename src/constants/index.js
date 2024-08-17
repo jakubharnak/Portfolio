@@ -3,9 +3,13 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am an enthusiastic and open-minded individual with a strong passion for exploring and learning within the dynamic field of Information Technology. I am constantly seeking opportunities to expand my knowledge and gain valuable experiences that will contribute to my professional growth. My eagerness to learn drives me to stay updated with the latest advancements and trends in the industry, ensuring that I am always equipped with the most relevant skills and insights. I am committed to embracing new challenges and leveraging my curiosity to innovate and excel in various IT domains.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a passionate and driven individual with a keen interest in the fields of Internet of Things (IoT) and software development. Currently, I am pursuing my studies at VUT FIT, where I am constantly expanding my knowledge and honing my skills.
+
+My technical expertise includes a diverse range of programming languages and tools. I am proficient in HTML, CSS, JavaScript, C, C++, and have a foundational understanding of C# and .NET. Additionally, I am skilled in Python, Figma, Linux, Git, Bash, MariaDB, MySQL, PostgreSQL, Visual Studio Code, Visual Studio, React, and Tailwind CSS.
+
+I am always eager to learn and take on new challenges, aiming to leverage my skills to create innovative solutions and contribute to the ever-evolving tech landscape.`;
 
 export const EXPERIENCES = [
   {
