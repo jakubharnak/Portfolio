@@ -31,12 +31,12 @@ export const EDUCATION = [
   {
     year: "2023 - Present",
     school: "Brno University of Technology",
-    type: "Fakulta informačních technologií",
+    type: "Faculty of Information Technology",
   },
   {
     year: "2019-2023",
     school: "SOŠ Informačních technologií sv. Jána Bosca",
-    type: "Informatika a elektrotechnika",
+    type: "Informatics and Electronics",
   },
 ];
 
