@@ -12,17 +12,23 @@ const Navbar = () => {
         <a
           href="https://www.linkedin.com/in/jakub-har%C5%88%C3%A1k-9850b5266/"
           className="text-white"
+          title="Visit Jakub Harňák's LinkedIn Profile"
         >
           <FaLinkedin />
         </a>
 
-        <a href="https://github.com/jakubharnak" className="text-white">
+        <a
+          href="https://github.com/jakubharnak"
+          className="text-white"
+          title="Visit Jakub Harňák's GitHub Profile"
+        >
           <FaGithub />
         </a>
 
         <a
           href="https://www.instagram.com/jakubharnak.webp/"
           className="text-white"
+          title="Visit Jakub Harňák's Instagram Profile"
         >
           <FaInstagram />
         </a>
