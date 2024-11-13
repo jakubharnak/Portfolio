@@ -21,7 +21,7 @@ const Hero = () => {
               variants={container(1)}
               initial="hidden"
               animate="visible"
-              className="pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-8xl bg-gradient-to-r from-pink-300 via-slate-500 to-purple-400 bg-clip-text text-4xl tracking-tight text-transparent"
+              className="pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-8xl bg-gradient-to-r from-pink-300 via-slate-500 to-purple-400 bg-clip-text text-transparent"
             >
               Jakub Harňák
             </motion.h1>
